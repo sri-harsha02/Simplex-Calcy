@@ -1,2 +1,2 @@
-# Simplex-Calcy
-A simple calculator developed using pure JavaScript. Has all the features of a basic calculator
+# Simple-Calculator
+A simple calculator designed using JavaScript. It performs all the basic mathematical operations.
